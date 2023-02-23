@@ -2,7 +2,7 @@
 ## simple deadline tracker app
 
 <p align="center">
-    <img alt="alt title" width="300px" heigth="300px" src="doge.ico"/>
+    <img alt="alt title" width="100px" heigth="100px" src="doge.ico"/>
 </p>
 
 I created this small app cause my memory is non-existent to help me keep track of upcomming school deadlines <br>
