@@ -6,7 +6,7 @@
 # Deadlines
 ## simple deadline tracker app
 
-<div align="center">
+<div align="right">
     <img alt="doge" width="150px" src="doge.ico"/>
 </div>
 
