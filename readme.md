@@ -1,9 +1,14 @@
-# Deadlines <p align="center">
-    <img alt="alt title" width="100px" heigth="100px" src="doge.ico"/>
-</p>
+
+
+
+
+
+# Deadlines
 ## simple deadline tracker app
 
-
+<div align="center">
+    <img alt="doge" width="150px" src="doge.ico"/>
+</div>
 
 I created this small app cause my memory is non-existent to help me keep track of upcomming school deadlines <br>
  (￣o￣) . z Z
