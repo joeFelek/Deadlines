@@ -1,7 +1,6 @@
-# Deadlines
+# Deadlines ![doge](doge.ico)
 ## simple deadline tracker app
 
-![doge](doge.ico)
 
 I created this small app cause my memory is non-existent to help me keep track of upcomming school deadlines <br>
  (￣o￣) . z Z
